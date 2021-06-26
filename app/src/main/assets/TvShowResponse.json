@@ -1,0 +1,104 @@
+{
+  "tvShows": [
+    {
+      "tvId": "b11",
+      "title": "Who Killed Sara? (2021)",
+      "quote": "null",
+      "genre": "Drama, Crime, Mystery",
+      "totalTime": "40m",
+      "overview": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
+      "network": "NETFLIX",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg"
+    },
+    {
+      "tvId": "b12",
+      "title": "The Flash (2014)",
+      "quote": "The fastest man alive.",
+      "genre": "Drama, Sci-Fi & Fantasy",
+      "totalTime": "44m",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "network": "The CW",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg"
+    },
+    {
+      "tvId": "b13",
+      "title": "The Good Doctor (2017)",
+      "quote": "His mind is a mystery, his methods are a miracle.",
+      "genre": "Drama",
+      "totalTime": "43m",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+      "network": "ABC",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg"
+    },
+    {
+      "tvId": "b14",
+      "title": "The Falcon and the Winter Soldier (2021)",
+      "quote": "Honor the shield.",
+      "genre": "Sci-Fi & Fantasy, Action & Adventure, Drama, War & Politics",
+      "totalTime": "50m",
+      "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+      "network": "Disney+",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg"
+    },
+    {
+      "tvId": "b15",
+      "title": "Grey's Anatomy (2005)",
+      "quote": "The life you save may be your own.",
+      "genre": "Drama",
+      "totalTime": "43m",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "network": "ABC",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg"
+    },
+    {
+      "tvId": "b16",
+      "title": "Love, Death & Robots (2019)",
+      "quote" : "null",
+      "genre": "Animation, Sci-Fi & Fantasy",
+      "totalTime": "15m",
+      "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+      "network": "NETFLIX",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/asDqvkE66EegtKJJXIRhBJPxscr.jpg"
+    },
+    {
+      "tvId": "b17",
+      "title": "Invincible (2021)",
+      "quote": "null",
+      "genre": "Animation, Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "totalTime": "45m",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+      "network": "Amazon",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg"
+    },
+    {
+      "tvId": "b18",
+      "title": "Lucifer (2016)",
+      "quote": "It's good to be bad.",
+      "genre": "Crime, Sci-Fi & Fantasy",
+      "totalTime": "45m",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "network": "FOX & NETFLIX",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg"
+    },
+    {
+      "tvId": "b19",
+      "title": "Riverdale (2017)",
+      "quote": "Small town. Big secrets.",
+      "genre": "Mystery, Drama, Crime",
+      "totalTime": "45m",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "network": "The CW",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg"
+    },
+    {
+      "tvId": "b20",
+      "title": "Jupiter's Legacy (2021)",
+      "quote": "No legacy lives forever.",
+      "genre": "Sci-Fi & Fantasy, Action & Adventure, Drama, Mystery",
+      "totalTime": "45m",
+      "overview": "When the world's first generation of superheroes received their powers in the 1930s become the revered elder guard in the present, their superpowered children struggle to live up to the legendary feats of their parents.",
+      "network": "NETFLIX",
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yxep7oJdkj3Pla9TD9gKflRApY.jpg"
+    }
+  ]
+}

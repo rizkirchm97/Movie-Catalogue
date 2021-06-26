@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/img_poster"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="18dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription"
+        tools:src="@drawable/placeimg_150_250_animals" />
+
+    <TextView
+        android:id="@+id/tv_detail_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_poster"
+        app:layout_constraintTop_toTopOf="@+id/img_poster"
+        tools:text="@string/title" />
+
+    <TextView
+        android:id="@+id/tv_detail_rd"
+        style="@style/detail_textProperty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_poster"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_title"
+        tools:text="@tools:sample/date/mmddyy" />
+
+    <TextView
+        android:id="@+id/tv_detail_genre"
+        style="@style/detail_textProperty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_poster"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_rd"
+        tools:text="@string/genre" />
+
+    <TextView
+        android:id="@+id/tv_detail_tt"
+        style="@style/detail_textProperty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/img_poster"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_genre"
+        tools:text="@string/total_time" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="297dp" />
+
+    <TextView
+        android:id="@+id/tv_detail_quote"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:maxWidth="250dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:textStyle="italic|bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline2"
+        tools:text="@string/quote" />
+
+    <TextView
+        android:id="@+id/tv_txt_overview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/overview"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_quote" />
+
+    <TextView
+        android:id="@+id/tv_detail_overview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="13dp"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_txt_overview"
+        tools:text="@string/overview" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
